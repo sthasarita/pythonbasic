@@ -1,0 +1,8 @@
+Hello from Python!
+This is the second line.
+The 'with' statement is great.
+Hello from Python!
+This is the second line.
+The 'with'.
+Python is versatile.
+File handling is key.
