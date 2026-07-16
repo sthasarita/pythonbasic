@@ -1,0 +1,15 @@
+{
+    "name": "Sarita Shrestha",
+    "email": "sarita9@gmail.com",
+    "hobbies": [
+        "Watching films",
+        "Skipping",
+        "Reading Books",
+        "Coding"
+    ],
+    "address": {
+        "city": "Lalitpur",
+        "zip": 5667
+    },
+    "is_Nepali": true
+}
